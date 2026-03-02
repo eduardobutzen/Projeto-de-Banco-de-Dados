@@ -37,3 +37,7 @@
         Esse jogo treino deve ser em um dia, um horário e uma quadra de um clube. 
         O professor lança o jogo informando o dia, a hora, a quadra, o clube e a categoria do jogo treino. 
         E os atletas entram nesse jogo, ou confirmam esse jogo.
+
+    - Resolução:
+
+        ![alt text](image-1.png)
